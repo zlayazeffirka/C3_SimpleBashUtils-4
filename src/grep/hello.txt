@@ -1,0 +1,6 @@
+first str
+7
+8
+second str
+third str
+tttrrr
